@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm David.
+
+Venture Builder, Investor, Startup Mentor, Trusted Advisor, Coach, Ex-Software Engineer.
+
+On the internet I'm known as At Sign Zoosjuice.
+
+Here are helpful things to get you started:
 
 <!--
 **zoosjuice/zoosjuice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
