@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm David.
 
-Venture Builder, Investor, Startup Mentor, Trusted Advisor, Coach, Ex-Software Engineer.
-
-On the internet I'm known as At Sign Zoosjuice.
-
 Here are helpful things to get you started:
 
 <!--
