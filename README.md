@@ -2,7 +2,7 @@
 
 Here are some highlights if you are interested in learning more about me:
 
-- 👨‍🚀 I’m currently seeking a new operating role in *Corporate Development & Partnerships* for a growth stage startup.
+- 👨‍🚀 I’m currently seeking a new operating role in __*Corporate Development & Partnerships*__ for a growth stage startup.
 - 🔭 I’m currently updating on my [blog](https://zoosjuice.github.io). (Updated June 23rd, 2022).
 - 🧘🏻‍♂️ I’m currently meditating on new business ideas & building intuition about markets. 
 - 💬 Ask me about [Tech Angel Investing](https://action.ventures), Finance, Economics, & Business
