@@ -1,10 +1,6 @@
 # Hi there 👋 I'm David.
 
-I've been on a 3 year mission to educate everyday people about tech & finance.
-
-Follow my journey on my blog as I try and break into Venture Capital.
-
-Here are some highlights if you are interested in learning more:
+Here are some highlights if you are interested in learning more about me:
 
 - 👨‍🚀 I’m currently seeking a new operating role in *Corporate Development & Partnerships* for a growth stage startup.
 - 🔭 I’m currently updating on my [blog](https://zoosjuice.github.io). (Updated June 23rd, 2022).
