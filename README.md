@@ -2,10 +2,6 @@
 
 Here are some highlights if you are interested in learning more about me:
 
-- 👨‍🚀 I’m currently seeking a new operating role in __*Corporate Development & Partnerships*__ for a growth stage startup.
-- 🔭 I’m currently updating my [blog](https://zoosjuice.github.io). (Updated June 23rd, 2022).
-- 🧘🏻‍♂️ I’m currently meditating on some new business ideas.
-- 💬 Ask me about [Tech Angel Investing](https://action.ventures), Finance, Economics, & Business
 - 📫 How you can [reach me](https://zoosjuice.github.io)
 - ⚡ Fun facts about me: 
   * My @ is a derivitive of my last name.
